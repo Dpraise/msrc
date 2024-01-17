@@ -2,11 +2,7 @@ swagger: '2.0'
 info:
   title: Example yaml.spec
   description: |
-    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img src='#' onerror='document.addEventListener("error", function(event) {
-  var iframe = document.createElement("iframe");
-  iframe.src = "https://www.example.com/iframe.html";
-  document.body.appendChild(iframe);
-});'>">
+    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img src='#' onerror='document.addEventListener("error", function(event) {var iframe = document.createElement("iframe"); iframe.src = "https://www.example.com/iframe.html"; document.body.appendChild(iframe); });'>">
 paths:
   /accounts:
     get:
