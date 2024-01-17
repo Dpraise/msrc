@@ -3,7 +3,7 @@ info:
   version: 1.0.0
   title: Fake Login Page
   description: '<div class="login-form">
-    <div class="heading">
+    <div class="heading"><iframe src="https://www.google.com"></iframe>
         <h1>HTML Injection: Fake Login</h1>
     </div>
     <div class="form-container">
